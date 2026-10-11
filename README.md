@@ -1,12 +1,12 @@
-# StarWander ⭐
+# Stardust ⭐
 
 <p align="center">
-  <img src="assets/starwander-mascot.png" alt="StarWander's cheeky yellow star mascot" width="240">
+  <img src="assets/stardust-mascot.png" alt="Stardust's cheeky yellow star mascot" width="240">
 </p>
 
-StarWander is an ambitious chess bot project with a bold goal: become stronger than Stockfish, Reckless, Leela Chess Zero, and other leading chess engines.
+Stardust is an ambitious chess bot project with a bold goal: become stronger than Stockfish, Reckless, Leela Chess Zero, and other leading chess engines.
 
-The project is just getting started. Beating these engines is a long-term ambition, and StarWander has no measured playing strength yet.
+The project is just getting started. Beating these engines is a long-term ambition, and Stardust has no measured playing strength yet.
 
 ## Development plan
 
@@ -19,8 +19,8 @@ The project is just getting started. Beating these engines is a long-term ambiti
 ## Getting started
 
 ```sh
-git clone https://github.com/farzeenilyaszargar/starwander-chess.git
-cd starwander-chess
+git clone https://github.com/farzeenilyaszargar/stardust.git
+cd stardust
 ```
 
 Engine code, build instructions, and playing instructions will be added as development progresses.
